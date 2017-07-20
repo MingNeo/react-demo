@@ -16,9 +16,11 @@ class Text extends React.Component {
 			text:'default Text text'
 		}
 
-		// pubSub.subscribe("app","up text1",(x)=>{
-		// 	this.upText(x.value)
-		// })
+		pubSub.subscribe("UP_TEXT",(data)=>{
+			this.setState({
+				text:data.text
+			})
+		})
 		
 	}
 

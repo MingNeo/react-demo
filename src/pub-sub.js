@@ -65,7 +65,7 @@ class PubSub {
 		});
 	}
 	// 发布
-	emit(scope, action = null) {
+	publish(scope, action = null) {
 		if (!action || action.type === void 0) return;//如果action为空返回
 		// 触发action
 		this.getCurrSubject(scope, action.type).next(action);

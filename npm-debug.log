@@ -10,7 +10,7 @@
 6 silly lifecycle react-demo@1.0.0~predev: no script for predev, continuing
 7 info lifecycle react-demo@1.0.0~dev: react-demo@1.0.0
 8 verbose lifecycle react-demo@1.0.0~dev: unsafe-perm in lifecycle true
-9 verbose lifecycle react-demo@1.0.0~dev: PATH: C:\Program Files\nodejs\node_modules\npm\bin\node-gyp-bin;D:\code\react-demo\node_modules\.bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\nodejs\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\cmd;C:\Users\klose\AppData\Local\Microsoft\WindowsApps;C:\Users\klose\AppData\Roaming\npm;D:\dev soft\php;C:\Program Files (x86)\Microsoft VS Code\bin
+9 verbose lifecycle react-demo@1.0.0~dev: PATH: C:\Program Files\nodejs\node_modules\npm\bin\node-gyp-bin;D:\code\react-demo\node_modules\.bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\nodejs\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\cmd;C:\Users\klose\AppData\Local\Microsoft\WindowsApps;C:\Users\klose\AppData\Roaming\npm;D:\dev soft\php;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Users\klose\AppData\Local\atom\bin
 10 verbose lifecycle react-demo@1.0.0~dev: CWD: D:\code\react-demo
 11 silly lifecycle react-demo@1.0.0~dev: Args: [ '/d /s /c',
 11 silly lifecycle   'webpack-dev-server --hot --inline --content-base ./.' ]
